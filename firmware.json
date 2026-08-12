@@ -1,0 +1,26 @@
+{
+  "collar": {
+    "deviceType": "collar",
+    "version": "13.5.0",
+    "url": "https://raw.githubusercontent.com/KURIBOH-BYTE/petTracer-Updater/main/collar/catcollar_release_13.5.0.gbl",
+    "sha256": "ab962dc02912e4c84d836cea532366101aefb9f44ce8b29a554624e82d0584a9",
+    "releaseDate": "2026-07-28",
+    "showNotes": false,
+    "notes": {
+      "de": "Verbesserte Verbindungsstabilitaet und laengere Akkulaufzeit.",
+      "en": "Improved connection stability and longer battery life."
+    }
+  },
+  "homestation": {
+    "deviceType": "homestation",
+    "version": "14.0.2",
+    "url": "https://raw.githubusercontent.com/KURIBOH-BYTE/petTracer-Updater/main/homestation/homestation_release_14.0.2.gbl",
+    "sha256": "8601f0ee00f0bf11835cd0cc17040eea537387d9189536bc0db8bbda7d0d4ce9",
+    "releaseDate": "2026-07-29",
+    "showNotes": false,
+    "notes": {
+      "de": "",
+      "en": ""
+    }
+  }
+}
