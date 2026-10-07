@@ -1,4 +1,5 @@
 {
+  "passwordSha256": "e382a756cdfca080e80132d756ebd2b2b556922cc1796a6fd4ed81f6fcfd57e3",
   "collar": [
     {
       "deviceType": "collar",
@@ -35,6 +36,23 @@
       "showNotes": true,
       "notes": {
         "de": "Aktuelle freigegebene Fassung.",
+        "en": "Current released version."
+      }
+    },
+    {
+      "deviceType": "homestation",
+      "version": "14.0.0",
+      "url": "https://raw.githubusercontent.com/petTracer/connect_public/main/homestation/beta/homestation_release_14.0.0.gbl",
+      "sha256": "96477714355ecd0d479ba84a26d17df7b8ee8116a0cf0531ce1f58f2462f2b32",
+      "releaseDate": "2024-10-07",
+      "showNotes": true,
+      "notes": {
+        "de": "Ältere Fassung – zum Testen eines Updates auf 14.0.2.",
+        "en": "Older version – for testing an update to 14.0.2."
+      }
+    }
+  ]
+}        "de": "Aktuelle freigegebene Fassung.",
         "en": "Current released version."
       }
     },
