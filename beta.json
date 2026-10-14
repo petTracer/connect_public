@@ -11,7 +11,8 @@
       "notes": {
         "de": "Aktuelle freigegebene Fassung.",
         "en": "Current released version."
-      }
+      },
+      "passwordSha256": "af26bbb746c228e8981a2e8d0dc1a6b3392bc349553ef7241fc9b7d0a36fceed"
     },
     {
       "deviceType": "collar",
@@ -23,7 +24,8 @@
       "notes": {
         "de": "Ältere Fassung – zum Testen eines Updates auf 13.5.0.",
         "en": "Older version – for testing an update to 13.5.0."
-      }
+      },
+      "passwordSha256": "d29131163671c1bab3a36d8ed00fd96ab966e30de714323f9682a7540d462b5f"
     }
   ],
   "homestation": [
@@ -37,7 +39,8 @@
       "notes": {
         "de": "Aktuelle freigegebene Fassung.",
         "en": "Current released version."
-      }
+      },
+      "passwordSha256": "1492c7833e63a29855cda32f7cb16bde4114022e80efba8adbd541829879383e"
     },
     {
       "deviceType": "homestation",
@@ -49,7 +52,8 @@
       "notes": {
         "de": "Ältere Fassung – zum Testen eines Updates auf 14.0.2.",
         "en": "Older version – for testing an update to 14.0.2."
-      }
+      },
+      "passwordSha256": "003a1aa935dd9e3f21da1a6665cf90d4d4cf00b98560f09b620b1077135e69d4"
     }
   ]
 }
