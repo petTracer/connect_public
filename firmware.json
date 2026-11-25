@@ -1,14 +1,14 @@
 {
   "collar": {
     "deviceType": "collar",
-    "version": "13.5.0",
-    "url": "https://raw.githubusercontent.com/petTracer/connect_public/main/collar/catcollar_release_13.5.0.gbl",
-    "sha256": "ab962dc02912e4c84d836cea532366101aefb9f44ce8b29a554624e82d0584a9",
-    "releaseDate": "2026-07-28",
+    "version": "13.6.0",
+    "url": "https://raw.githubusercontent.com/petTracer/connect_public/main/collar/catcollar_release_13.6.0.gbl",
+    "sha256": "d2cbe026e86801670d21718184ca96c423d65386c239705b38b71b594d5e0a45",
+    "releaseDate": "2026-11-25",
     "showNotes": false,
     "notes": {
-      "de": "Verbesserte Verbindungsstabilität und längere Akkulaufzeit.",
-      "en": "Improved connection stability and longer battery life."
+      "de": "",
+      "en": ""
     }
   },
   "homestation": {
